@@ -9,7 +9,6 @@ import Home from './Home';
 import About from './About';
 import Contact from './Contact';
 import Navbar from "./Navbar";
-import Footer from "../Footer";
 import Register from "../Login/Register";
 import Login from "../Login/Login";
 import Shopping from "../Shopping";

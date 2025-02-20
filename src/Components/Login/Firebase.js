@@ -6,13 +6,13 @@ import { getFirestore, doc, setDoc, getDoc, addDoc, collection, getDocs, query,w
 import { getStorage  } from "firebase/storage";
 
 const firebaseApp = initializeApp( {
-    apiKey: "AIzaSyDTCR-4AXf41Q3coCssC4AL4a07JTO8tw0",
-    authDomain: "car-world-217a6.firebaseapp.com",
-    projectId: "car-world-217a6",
-    storageBucket: "car-world-217a6.appspot.com",
-    messagingSenderId: "346373437504",
-    appId: "1:346373437504:web:faba6b4c1a340960e807a5",
-    measurementId: "G-B7ZTYVM103"
+    apiKey: "AIzaSyCrH4QLX7p7glOTnsBp87ohmIUCY57duxc",
+    authDomain: "mycarworld-bb145.firebaseapp.com",
+    projectId: "mycarworld-bb145",
+    storageBucket: "mycarworld-bb145.firebasestorage.app",
+    messagingSenderId: "734409917827",
+    appId: "1:734409917827:web:6def790cd35a0b84da62b6",
+    measurementId: "G-9HF6RNMMS1"
   });
 
 
@@ -33,7 +33,5 @@ getDocs,
 query,
 getDoc,
 onAuthStateChanged
-
- 
  };
  
